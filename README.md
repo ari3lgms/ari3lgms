@@ -15,7 +15,7 @@ Focado em **Desenvolvimento de Software**, **Engenharia de Software**, **Bancos 
 
 ### 📌 Projetos em Destaque
 
-- 🏫 **[Sistema de Apadrinhamento Escolar (PostgreSQL)](https://github.com/teu-usuario/sistema-apadrinhamento-escolar)**
+- 🏫 **[Sistema de Apadrinhamento Escolar (PostgreSQL)](https://github.com/ari3lgms/sistema-de-apadrinhamento-escolar-)**
   - Script DDL/DML/DQL completo com regras de integridade, relacionamentos complexos e consultas avançadas.
 - 📚 **[Sistema de Gestão de Biblioteca (Linguagem C)](https://github.com/teu-usuario/gestao-biblioteca-c)**
   - Aplicação modular em C para controlo de acervo, utilizadores, empréstimos e ordenação/pesquisa de livros.
