@@ -26,4 +26,4 @@ Focado em **Desenvolvimento de Software**, **Engenharia de Software**, **Bancos 
 
 ### 📫 Como me encontrar
 - **LinkedIn:** [link-do-teu-linkedin]
-- **E-mail:** [teu-email@exemplo.com]
+- **E-mail:** [arieloliveira1121@gmail.com]
