@@ -25,5 +25,5 @@ Focado em **Desenvolvimento de Software**, **Engenharia de Software**, **Bancos 
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [link-do-teu-linkedin]
+- **LinkedIn:** [https://www.linkedin.com/in/ariel-oliveira-a243063b0?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - **E-mail:** [arieloliveira1121@gmail.com]
