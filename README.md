@@ -19,7 +19,7 @@ Focado em **Desenvolvimento de Software**, **Engenharia de Software**, **Bancos 
   - Script DDL/DML/DQL completo com regras de integridade, relacionamentos complexos e consultas avançadas.
 - 📚 **[Sistema de Gestão de Biblioteca (Linguagem C)](https://github.com/ari3lgms/sistema-de-gest-o-de-biblioteca)**
   - Aplicação modular em C para controlo de acervo, utilizadores, empréstimos e ordenação/pesquisa de livros.
-- ☕ **[Exercícios e Algoritmos em Java](https://github.com/teu-usuario/java-logica-algoritmos)**
+- ☕ **[Exercícios e Algoritmos em Java](https://github.com/ari3lgms/java-l-gica-algoritmos-)**
   - Coleção de algoritmos cobrindo estruturas de repetição, simulação de sistemas de votação e laços de controlo.
 
 ---
