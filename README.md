@@ -1,4 +1,4 @@
-# Olá, eu sou o Ariel Gomes! 👋
+# Olá, eu sou o Ari3lgms 👋
 
 🎓 **Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas** no Instituto Federal de Goiás (IFG - Câmpus Formosa).
 
